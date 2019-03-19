@@ -1,10 +1,10 @@
 ---- Completed tasks: ----
 1.1 Säker filhantering
 1.2 Omgivningsvariabler
-
----- Tasks to be done: ----
 2.1 Information sänd via adressfältet och länkar
 2.2.1 Information sänd via formulär
+
+---- Tasks to be done: ----
 2.2.2 Uppladdning av fil
 3.1 Kodseparation med statiska webbsidor
 3.2 Kodseparation med dynamiska webbsidor
